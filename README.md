@@ -66,7 +66,7 @@ The objective of this project is to **automate the deployment and deployment of 
 - Application files are copied to the correct directory on the Apache Web Server.
 - The Apache Web Server is started, making the application accessible through the web server.
 
-# Steps
+# Topics
 If you are starting a new project and want to set up a development or testing environment with Vagrant and the Apache web server, follow the steps below:
 
 1. Start your project by creating a Git repository and then use the command below to create a Vagrantfile configuration file:
@@ -88,7 +88,7 @@ service httpd start
 6. You can test by accessing the ``https://localhost:8010``
     - ![example](assets/example.png)
 
-# Tools / Technology
+# Tools / Technologies
 - Vagrant
 - Apache Web Server
 - CentOS/7

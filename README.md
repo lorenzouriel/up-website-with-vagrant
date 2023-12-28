@@ -36,7 +36,7 @@ service httpd start
 6. Você pode testar acessando o ``https://localhost:8010``
     - ![example](assets/example.png)
 
-# Ferramentas / Tecnologia
+# Ferramentas / Tecnologias
 - Vagrant
 - Apache Web Server
 - CentOS/7
